@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #1b1b1b;
+  color: #FFF;
   position: relative;
   background: transparent;
 }
@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #bddeff;
+  background: #010e1b;
   background-size: cover;
   left: 0;
   right: 0;
